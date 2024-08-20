@@ -27,7 +27,7 @@ const Fahrschule = ({setSelectedPage}: Props) => {
                         visible: { opacity: 2, x: 0 }
                     }}
                 >
-                    <HText>PRAKTICHER FAHRUNTERRICHT</HText>
+                    <HText>PRAKTISCHER FAHRUNTERRICHT</HText>
                     <p className="my-5 text-sm">
                         Mein Ziel ist es, dir eine sichere, dynamische, selbstbewusste und umweltbewusste Fahrweise zu vermitteln. 
                         Ich richte meinen Unterricht individuell auf deine Bedürfnisse aus, um so effizient wie möglich deine Fahrausbildung mit der praktischen Fahrprüfung abzuschliessen.

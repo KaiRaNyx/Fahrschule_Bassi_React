@@ -13,7 +13,7 @@ type Props = {
     setSelectedPage: (value: SelectedPage) => void;
 }
 
-const Keypoint = ({ icon, title, description, setSelectedPage }: Props) => {
+const Keypoint = ({ icon, title, description }: Props) => {
     return (
         <motion.div 
             variants={childVariant}
